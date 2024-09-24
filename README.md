@@ -15,7 +15,7 @@ Credit: Using a local and abridged version of the API available at https://dbd.t
 
 ![image](https://github.com/user-attachments/assets/e3df6aea-7c6f-4ea5-9719-6c806e13f3fc)
 
-4. In your new Browser Source **properties**, make sure to select **"Local File"**, as well as **"Shutdown source when not visible"** and ****Refresh browser when scene becomes active"**. This will ensure the randomizer will start anytime that scene is visible.
+4. In your new Browser Source **properties**, make sure to select **"Local File"**, as well as **"Shutdown source when not visible"** and **""Refresh browser when scene becomes active"**. This will ensure the randomizer will start anytime that scene is visible.
 
 ![image](https://github.com/user-attachments/assets/f0ae64ec-30f7-4403-8a24-a72c7f539c9c)
 ![image](https://github.com/user-attachments/assets/561e6f69-bce0-40d9-9bcb-e5f8a029fa2c)
@@ -24,7 +24,7 @@ Credit: Using a local and abridged version of the API available at https://dbd.t
 
 ![image](https://github.com/user-attachments/assets/c320a66a-24ae-4d27-bdce-a81bc99cc058)
 
-6. Setup a new Browser source, then repeat Steps 3-5 but instead of selecting survivor.html, select killer.html instead. This will be the randomizer for killers.
+6. Setup a new Browser source, then repeat Steps 3-5 but instead of selecting "**survivor.html**", select "**killer.html**" instead. This will be the randomizer for killers.
 
 7. I kept both of these sources as basic and transparent as possible to ensure the scene can be used by as many streamers as possible. Enjoy!
 
