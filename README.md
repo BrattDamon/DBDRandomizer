@@ -1,5 +1,5 @@
 # Dead by Daylight Randomizer
-Author: Bratt (https://twitch.tv/bratt)
+Author: Bratt (https://twitch.tv/bratt) (https://x.com/brattdamon)
 
 Credit: Using a local and abridged version of the API available at https://dbd.tricky.lol/
 
