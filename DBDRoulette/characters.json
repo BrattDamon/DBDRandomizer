@@ -184,7 +184,7 @@
       "BO_Legs01"
     ],
     "dlc": null,
-    "image": "img/survivors/WilliamBillOverbeck.webp",
+    "image": "img/survivors/BillOverbeck.webp",
     "perks": [
       "BorrowedTime",
       "LeftBehind",
@@ -400,7 +400,7 @@
       "ML_Legs01"
     ],
     "dlc": "Nepals",
-    "image": "img/survivors/AshleyJWilliams.webp",
+    "image": "img/survivors/AshWilliams.webp",
     "perks": [
       "BuckleUp",
       "FlipFlop",
@@ -592,7 +592,7 @@
       "S25_Legs01"
     ],
     "dlc": "Comet",
-    "image": "img/survivors/YunJinLee.webp",
+    "image": "img/survivors/Yun-JinLee.webp",
     "perks": [
       "S25P01",
       "S25P02",
@@ -1053,6 +1053,30 @@
       "S44P01",
       "S44P02",
       "S44P03"
+    ]
+  },
+  "44": {
+    "id": "S45",
+    "name": "Taurie Cain",
+    "role": "survivor",
+    "difficulty": "intermediate",
+    "gender": "female",
+    "height": "average",
+    "bio": "",
+    "story": "",
+    "tunables": null,
+    "item": null,
+    "outfit": [
+      "",
+      "",
+      ""
+    ],
+    "dlc": "",
+    "image": "img/survivors/TaurieCain.webp",
+    "perks": [
+      "",
+      "",
+      ""
     ]
   },
   "268435456": {
@@ -3340,6 +3364,30 @@
       "K37P01",
       "K37P02",
       "K37P03"
+    ]
+  },
+  "268435493": {
+    "id": "K38",
+    "name": "The Houndmaster",
+    "role": "killer",
+    "difficulty": "intermediate",
+    "gender": "female",
+    "height": "average",
+    "bio": "",
+    "story": "",
+    "tunables": null,
+    "item": null,
+    "outfit": [
+      "",
+      "",
+      ""
+    ],
+    "dlc": "",
+    "image": "img/survivors/TheHoundmaster.png",
+    "perks": [
+      "",
+      "",
+      ""
     ]
   }
 }
